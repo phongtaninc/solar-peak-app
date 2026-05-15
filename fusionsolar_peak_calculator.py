@@ -52,7 +52,7 @@ except ImportError:
 
 BASE_URL        = "https://sg5.fusionsolar.huawei.com"
 USERNAME        = "chowenergyapi"
-PASSWORD        = "chow1234"
+PASSWORD        = "chow12345"
 REQUEST_TIMEOUT = 30
 MAX_RETRIES     = 3
 RETRY_DELAY     = 5
