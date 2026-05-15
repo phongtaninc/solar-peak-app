@@ -1,4 +1,4 @@
-"""
+u"""
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║   FusionSolar  ·  Monthly On-Peak / Off-Peak Energy Calculator              ║
 ║   Thailand PEA TOU Tariff  ·  Streamlit Web App  ·  Multi-Plant Edition     ║
@@ -50,7 +50,7 @@ except ImportError:
 # CONFIGURATION
 # ═════════════════════════════════════════════════════════════════════════════
 
-BASE_URL        = "https://sg5.fusionsolar.huawei.com"
+BASE_URL        = "https://eu5.fusionsolar.huawei.com"
 USERNAME        = "chowenergyapi"
 PASSWORD        = "chow12345"
 REQUEST_TIMEOUT = 30
